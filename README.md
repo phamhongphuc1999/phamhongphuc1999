@@ -26,5 +26,5 @@
 ---
 
 ### Something amazing
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8BXClXZKqcM/0.jpg)](https://www.youtube.com/watch?v=8BXClXZKqcM)
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
