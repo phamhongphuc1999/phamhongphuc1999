@@ -27,4 +27,7 @@
 
 ### Something amazing
 <!-- BLOG-POST-LIST:START -->
+- [Đợi Cậu Trên Hành Tinh No.365 | Wait for U on No.365 planet - Melody_Fall](https://www.youtube.com/watch?v=rqquhxFWNLc)
+- [Ngày Hè Lúc Nhỏ | 儿时的夏天 - 余日秋山](https://www.youtube.com/watch?v=8BXClXZKqcM)
+- [Gió Nổi Lên Rồi -起风了 &lpar;Piano&rpar;](https://www.youtube.com/watch?v=A1wN97Y7274)
 <!-- BLOG-POST-LIST:END -->
