@@ -11,10 +11,20 @@
 
 ---
 
-| <a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-stats.vercel.app/api?username=phamhongphuc1999&show_icons=true" /></a> | <a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhongphuc1999&layout=compact&exclude_repo=Project2,WebCore&langs_count=6" /></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-stats.vercel.app/api?username=phamhongphuc1999&show_icons=true" /></a> | <a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhongphuc1999&layout=donut&exclude_repo=Project2,WebCore&langs_count=6" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### <img height="40" src="./kyubey.gif"/> Languages and Tools
 
-| <div><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /><br /><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /><br /><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <br/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></div> | <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <br /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> | <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" width="30" height="30" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30" height="30" />
+</div>
