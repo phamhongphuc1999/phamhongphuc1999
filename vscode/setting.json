@@ -1,0 +1,70 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Ayu Dark",
+    "material-icon-theme.folders.theme": "specific",
+    "window.titleBarStyle": "custom",
+    "editor.fontFamily": "Fira Code",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.mouseWheelZoom": true,
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.matchBrackets": "never",
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 3,
+    "editor.cursorBlinking": "solid",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.fontSize": 20,
+    "editor.suggestSelection": "first",
+    "editor.lineHeight": 25,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.tree.indent": 22,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#41c91f",
+        "terminalCursor.foreground": "#ffff00"
+    },
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+
+    "material-icon-theme.hidesExplorerArrows": true,
+    "material-icon-theme.folders.color": "#7cb342",
+
+    "markdown.preview.lineHeight": 1.8,
+    "files.associations": {
+        "*.js": "javascript",
+        "*.tsx": "typescriptreact"
+    },
+
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "prettier.printWidth": 200,
+    "prettier.tabWidth": 4,
+
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorWidth": 2,
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.external.windowsExec": "",
+
+    "html.format.wrapLineLength": 200,
+    "terminal.integrated.inheritEnv": false,
+    "material-icon-theme.opacity": 1,
+
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "indentRainbow.indicatorStyle": "light",
+    "indentRainbow.lightIndicatorStyleLineWidth": 3,
+
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "editor.accessibilitySupport": "off",
+    "window.zoomLevel": 0,
+    "solidity.telemetry": true
+}
