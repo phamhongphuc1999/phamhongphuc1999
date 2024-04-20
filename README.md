@@ -2,7 +2,7 @@
 <a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhongphuc1999&layout=donut&exclude_repo=Project2,WebCore&langs_count=10" /></a> <br />
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=phamhongphuc1999"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phamhongphuc1999"></a>
 
-### <img height="40" src="./kyubey.gif"/> <img height="40" src="./kyubey.gif"/> <img height="40" src="./kyubey.gif"/> Languages and Tools
+### <img height="40" src="./kyubey.gif"/> Languages <img height="40" src="./kyubey.gif"/> and <img height="40" src="./kyubey.gif"/> Tools
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30" height="30" />
