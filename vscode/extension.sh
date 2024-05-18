@@ -4,8 +4,10 @@ code --install-extension eamodio.gitlens
 code --install-extension esbenp.prettier-vscode
 code --install-extension mhutchie.git-graph
 code --install-extension ms-vscode-remote.remote-containers
+code --install-extension naumovs.color-highlight
 code --install-extension nomicfoundation.hardhat-solidity
 code --install-extension oderwat.indent-rainbow
 code --install-extension pkief.material-icon-theme
 code --install-extension rangav.vscode-thunder-client
+code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension teabyii.ayu
