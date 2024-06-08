@@ -11,3 +11,4 @@ code --install-extension pkief.material-icon-theme
 code --install-extension rangav.vscode-thunder-client
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension teabyii.ayu
+code --install-extension wix.vscode-import-cost

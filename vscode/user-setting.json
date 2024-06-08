@@ -66,5 +66,6 @@
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "editor.accessibilitySupport": "off",
     "window.zoomLevel": 0,
-    "solidity.telemetry": true
+    "solidity.telemetry": true,
+    "git.ignoreMissingGitWarning": true
 }

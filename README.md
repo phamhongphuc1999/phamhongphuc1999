@@ -1,12 +1,22 @@
 <div>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" />
+</div>
+<div>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tongue.png" alt="Face with Tongue" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="50" height="50" />
 </div>
 
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=phamhongphuc1999"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phamhongphuc1999"></a>
 <a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-stats.vercel.app/api?username=phamhongphuc1999&show_icons=true" /></a> <br />
 <a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhongphuc1999&layout=donut&exclude_repo=Project2,WebCore&langs_count=10" /></a> <br />
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=phamhongphuc1999"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phamhongphuc1999"></a>
 
 ### <img height="40" src="./kyubey.gif"/> Languages <img height="40" src="./kyubey.gif"/> and <img height="40" src="./kyubey.gif"/> Tools
 
