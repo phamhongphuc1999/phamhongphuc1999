@@ -1,6 +1,6 @@
 {
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Abyss",
+    "workbench.colorTheme": "Ayu Dark Bordered",
     "material-icon-theme.folders.theme": "specific",
     "window.titleBarStyle": "custom",
     "editor.fontFamily": "Fira Code",
@@ -67,5 +67,7 @@
     "editor.accessibilitySupport": "off",
     "window.zoomLevel": 0,
     "solidity.telemetry": true,
-    "git.ignoreMissingGitWarning": true
+    "git.ignoreMissingGitWarning": true,
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.preferredDarkColorTheme": "Default Dark+"
 }
