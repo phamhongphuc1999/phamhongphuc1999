@@ -1,4 +1,5 @@
 code --install-extension chakrounanas.turbo-console-log
+code --install-extension cupshe.vue3-snippets
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension eamodio.gitlens
 code --install-extension esbenp.prettier-vscode
@@ -10,9 +11,21 @@ code --install-extension ms-python.vscode-pylance
 code --install-extension ms-vscode-remote.remote-containers
 code --install-extension naumovs.color-highlight
 code --install-extension nomicfoundation.hardhat-solidity
+code --install-extension octref.vetur
 code --install-extension oderwat.indent-rainbow
 code --install-extension pkief.material-icon-theme
 code --install-extension rangav.vscode-thunder-client
+code --install-extension redhat.java
+code --install-extension ritwickdey.liveserver
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension teabyii.ayu
+code --install-extension visualstudioexptteam.intellicode-api-usage-examples
+code --install-extension visualstudioexptteam.vscodeintellicode
+code --install-extension vscjava.vscode-java-debug
+code --install-extension vscjava.vscode-java-dependency
+code --install-extension vscjava.vscode-java-pack
+code --install-extension vscjava.vscode-java-test
+code --install-extension vscjava.vscode-maven
+code --install-extension vscode-icons-team.vscode-icons
+code --install-extension vue.volar
 code --install-extension wix.vscode-import-cost

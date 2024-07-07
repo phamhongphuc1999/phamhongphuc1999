@@ -1,5 +1,5 @@
 {
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "vscode-icons",
     "workbench.colorTheme": "Ayu Dark Bordered",
     "material-icon-theme.folders.theme": "specific",
     "window.titleBarStyle": "custom",
@@ -69,5 +69,7 @@
     "solidity.telemetry": true,
     "git.ignoreMissingGitWarning": true,
     "git.openRepositoryInParentFolders": "never",
-    "workbench.preferredDarkColorTheme": "Default Dark+"
+    "workbench.preferredDarkColorTheme": "Default Dark+",
+    "editor.linkedEditing": true,
+    "liveServer.settings.donotShowInfoMsg": true
 }
