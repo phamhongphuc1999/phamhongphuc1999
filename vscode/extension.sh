@@ -1,5 +1,7 @@
 code --install-extension chakrounanas.turbo-console-log
+code --install-extension csstools.postcss
 code --install-extension cupshe.vue3-snippets
+code --install-extension damirka.move-syntax
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension eamodio.gitlens
 code --install-extension esbenp.prettier-vscode
