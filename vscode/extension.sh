@@ -3,7 +3,9 @@ code --install-extension chakrounanas.turbo-console-log
 code --install-extension csstools.postcss
 code --install-extension cupshe.vue3-snippets
 code --install-extension damirka.move-syntax
+code --install-extension danielsanmedium.dscodegpt
 code --install-extension dbaeumer.vscode-eslint
+code --install-extension docker.docker
 code --install-extension eamodio.gitlens
 code --install-extension esbenp.prettier-vscode
 code --install-extension formulahendry.auto-rename-tag
@@ -17,7 +19,6 @@ code --install-extension ms-vscode-remote.remote-containers
 code --install-extension ms-vscode.cpptools-themes
 code --install-extension naumovs.color-highlight
 code --install-extension nomicfoundation.hardhat-solidity
-code --install-extension octref.vetur
 code --install-extension oderwat.indent-rainbow
 code --install-extension pkief.material-icon-theme
 code --install-extension rangav.vscode-thunder-client

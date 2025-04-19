@@ -55,8 +55,6 @@
     "html.format.wrapLineLength": 200,
     "terminal.integrated.inheritEnv": false,
     "material-icon-theme.opacity": 1,
-
-    "editor.minimap.enabled": false,
     "editor.wordWrap": "on",
     "typescript.updateImportsOnFileMove.enabled": "always",
     "indentRainbow.indicatorStyle": "light",
@@ -77,5 +75,6 @@
     "prettier.documentSelectors": ["*{js,jsx,ts,tsx,html}"],
     "[cpp]": {
         "editor.defaultFormatter": "ms-vscode.cpptools"
-    }
+    },
+    "chat.commandCenter.enabled": false
 }
