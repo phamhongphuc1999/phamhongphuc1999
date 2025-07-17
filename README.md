@@ -1,6 +1,6 @@
-## [Profile](https://peter-present.xyz/) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bison.png" alt="Bison" width="25" height="25" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="25" height="25" /> [Profile](https://peter-present.xyz/) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" alt="Spouting Whale" width="25" height="25" />
 
-You <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> also can checkout my [blog](https://my-next-app-one-topaz.vercel.app/)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Locomotive.png" alt="Locomotive" width="50" height="50" /> You also can checkout my [blog](https://blog.peter-present.xyz/)
 
 ### Languages and Tools <img height="40" src="./kyubey.gif"/>
 
@@ -19,6 +19,8 @@ You <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Flue
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30" height="30" />
 </div>
 
-<a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phamhongphuc1999&theme=radical&hide_border=true&border_radius=11&card_width=500&card_height=200"></a>
-<a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhongphuc1999&exclude_repo=Project2,WebCore&langs_count=20&layout=donut-vertical&theme=tokyonight" /></a> <br />
-<a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-stats.vercel.app/api?username=phamhongphuc1999&show_icons=true&rank_icon=github&theme=radical" /></a> <br />
+<a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhongphuc1999&exclude_repo=Project2,WebCore&langs_count=20&layout=donut-vertical&theme=merko" /></a>
+<br />
+<a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phamhongphuc1999&theme=dracula&hide_border=true&border_radius=11&card_width=500&card_height=200"></a>
+<br />
+<a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-stats.vercel.app/api?username=phamhongphuc1999&show_icons=true&rank_icon=github&theme=cobalt" /></a> <br />
