@@ -1,6 +1,6 @@
 {
     "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "Winter is Coming (Dark Blue - No Italics)",
+    "workbench.colorTheme": "Catppuccin Mocha",
     "material-icon-theme.folders.theme": "specific",
     "window.titleBarStyle": "custom",
     "editor.fontFamily": "Fira Code",
@@ -27,7 +27,8 @@
         "terminalCursor.foreground": "#ffff00"
     },
     "workbench.editorAssociations": {
-        "*.ipynb": "jupyter-notebook"
+        "*.ipynb": "jupyter-notebook",
+        "*.svg": "default"
     },
 
     "material-icon-theme.hidesExplorerArrows": true,
@@ -76,5 +77,6 @@
     "[cpp]": {
         "editor.defaultFormatter": "ms-vscode.cpptools"
     },
-    "chat.commandCenter.enabled": false
+    "chat.commandCenter.enabled": false,
+    "notebook.output.textLineLimit": 100
 }
