@@ -19,8 +19,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30" height="30" />
 </div>
 
-<a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhongphuc1999&exclude_repo=Project2,WebCore&langs_count=20&layout=donut-vertical&theme=merko" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhongphuc1999&exclude_repo=Project2,WebCore&langs_count=20&layout=donut-vertical&theme=merko" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhongphuc1999&exclude_repo=Project2,WebCore&langs_count=20&layout=donut-vertical&theme=merko" /></a>
 <br />
-<a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phamhongphuc1999&theme=dracula&hide_border=true&border_radius=11&card_width=500&card_height=200"></a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=phamhongphuc1999&theme=dracula&hide_border=true&border_radius=11&card_width=500&card_height=200" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phamhongphuc1999&theme=dracula&hide_border=true&border_radius=11&card_width=500&card_height=200"></a>
 <br />
-<a href="https://github.com/phamhongphuc1999/phamhongphuc1999"><img src="https://github-readme-stats.vercel.app/api?username=phamhongphuc1999&show_icons=true&rank_icon=github&theme=cobalt" /></a> <br />
+<a href="https://github-readme-stats.vercel.app/api?username=phamhongphuc1999&show_icons=true&rank_icon=github&theme=cobalt" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=phamhongphuc1999&show_icons=true&rank_icon=github&theme=cobalt" /></a> <br />
